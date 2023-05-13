@@ -7,6 +7,9 @@
             font-family: 'Poppins', sans-serif;
         }
 
+     
+
+
 body,html{
     overflow-x: hidden;
 
@@ -120,8 +123,8 @@ section h1{
 }
 .customer{
    display:flex;
-   justify-content:space-around;
    flex-wrap: wrap;
+   justify-content: center;
 
    
    
@@ -132,9 +135,9 @@ section h1{
 
 .customer1{
     display:flex;
-    justify-content:space-around;
     flex-wrap: wrap;
     margin-top:50px;
+    justify-content: center;
  
     
     
